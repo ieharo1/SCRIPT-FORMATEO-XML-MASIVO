@@ -1,19 +1,31 @@
-# SCRIPT-FORMATEO-XML-MASIVO
+# 📄 SCRIPT-FORMATEO-XML-MASIVO
 
-Script en **PowerShell** para el formateo masivo de archivos XML.  
-Reemplaza de forma segura la etiqueta `<HSTACC2>` por `<HSTACC>` manteniendo intacto el contenido, estructura y encoding del XML.
-
----
-
-## 🎯 Objetivo
-
-Automatizar la corrección de etiquetas XML en procesos de integración o carga de datos, evitando modificaciones manuales y reduciendo errores operativos.
+Script en PowerShell para el formateo masivo de archivos XML desarrollado por **Isaac Esteban Haro Torres**.
 
 ---
 
-## ✅ Qué hace el script
+## 📝 Descripción
 
-- Recorre todos los archivos `.xml` en una carpeta definida
-- Reemplaza únicamente:
-  ```xml
-  <HSTACC2>VALOR</HSTACC2>
+Script para formatear y limpiar múltiples archivos XML de forma automática.
+
+---
+
+## 🛠️ Stack Tecnológico
+
+- PowerShell
+- XML
+
+---
+
+## 👨‍💻 Desarrollado por Isaac Esteban Haro Torres
+
+**Ingeniero en Sistemas · Full Stack · Automatización · Data**
+
+- 📧 Email: zackharo1@gmail.com
+- 📱 WhatsApp: 098805517
+- 💻 GitHub: https://github.com/ieharo1
+- 🌐 Portafolio: https://ieharo1.github.io/portafolio-isaac.haro/
+
+---
+
+© 2026 Isaac Esteban Haro Torres - Todos los derechos reservados.
