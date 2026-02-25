@@ -29,3 +29,4 @@ Script para formatear y limpiar múltiples archivos XML de forma automática.
 ---
 
 © 2026 Isaac Esteban Haro Torres - Todos los derechos reservados.
+
